@@ -1,9 +1,9 @@
 name: calculator_neumorphism_ui_lego
-description: "lego is all you need"
+description: "A Flutter Lego package to use and make beautiful Neumorphism design based calculator."
 #publish_to: 'none'
 repository: https://github.com/flutter-lego/calculator_neumorphism_ui_lego
 
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
